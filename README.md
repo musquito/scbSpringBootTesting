@@ -48,6 +48,7 @@ spring.datasource.username=root
 spring.datasource.password=
 spring.jpa.hibernate.ddl-auto=update
 ```
+DataBase Script in Project  /src/main/resources/
 ** If mvn clean install , The Unit Test Failed and ignore test
 
 ~~~
