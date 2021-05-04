@@ -39,3 +39,6 @@ mvn spring-boot:run
 ~~~
  mvn clean install -DskipTests
 ~~~
+API docs via swagger, you can access to 
+
+- https://localhost:8443/swagger-ui.html#/
