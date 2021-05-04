@@ -34,7 +34,7 @@ mvn spring-boot:run
 ~~~
 
 
-** If mvn clean install , The Unit Test Failed pleas ignore test
+** If mvn clean install , The Unit Test Failed and ignore test
 
 ~~~
  mvn clean install -DskipTests
